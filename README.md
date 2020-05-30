@@ -8,7 +8,7 @@ For installing [Tensorflow object detection API](https://github.com/tensorflow/m
 
 ### Reference
 - Python script for tensorflow Object detection on grocery dataset by [empathy87](https://github.com/empathy87/nn-grocery-shelves)
-- Dataset is provided by Gül Varol and Kuzu, Ridvan S. for the title "Toward Retail Product Recognition on Grocery Shelves" in 2014.
+- Dataset is provided by [Gül Varol and Kuzu, Ridvan S. for the title "Toward Retail Product Recognition on Grocery Shelves" in 2014.](https://github.com/gulvarol/grocerydataset)
 
 ### Prerequisite
 - Tensorflow object detection API
