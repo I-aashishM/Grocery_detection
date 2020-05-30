@@ -1,6 +1,9 @@
 # Grocery_detection_using_tensorflow_object_detection_API
 Detecting products on shelves image with SDD 
 
+### A Made up story
+
+The XYZ company require the insight of the retail shops to improve their sales. One such insight comes from determining how many products of their brands are present in the shelves of the various shops.
 
 ### Objective
 The task is to detect the products on grocery dataset using SDD (Single shot Detection). The notebook is used in Google Colab for accessing GPU. It also contains the installation of Tensorflow Object Detection API.
