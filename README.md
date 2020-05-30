@@ -7,8 +7,8 @@ The task is to detect the products on grocery dataset using SDD (Single shot Det
 For installing [Tensorflow object detection API](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/installation.md)
 
 ### Reference
-- Python script for tensorflow Object detection by [empathy87](https://github.com/empathy87/nn-grocery-shelves)
-- Dataset is provided by Varol Gul and Kuzu, Ridvan S. for the title "Toward Retail Product Recognition on Grocery Shelves" in 2014.
+- Python script for tensorflow Object detection on grocery dataset by [empathy87](https://github.com/empathy87/nn-grocery-shelves)
+- Dataset is provided by Gül Varol and Kuzu, Ridvan S. for the title "Toward Retail Product Recognition on Grocery Shelves" in 2014.
 
 ### Prerequisite
 - Tensorflow object detection API
@@ -25,3 +25,7 @@ For installing [Tensorflow object detection API](https://github.com/tensorflow/m
 
 ### Example
 
+![Example](images/1.png)
+
+
+![Example](images/2.png)
