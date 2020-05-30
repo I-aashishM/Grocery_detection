@@ -1,5 +1,5 @@
-# Grocery_detection
-Detecting products on shelves image with SDD
+# Grocery_detection_using_tensorflow_object_detection_API
+Detecting products on shelves image with SDD 
 
 
 ### Objective
